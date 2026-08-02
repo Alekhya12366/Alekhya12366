@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Alekhya Nallala
 
-<!--
-**Alekhya12366/Alekhya12366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Python Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science Engineering (2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- Python
+- Django
+- React.js
+- SQL
+- REST APIs
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+
+🌱 Currently Learning
+- Advanced Django
+- React.js
+- Data Structures & Algorithms
+
+🚀 Projects
+- 🐔 Poultry Disease Diagnosis using Deep Learning (CNN)
+- 💻 Python Practice Programs
+
+📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/alekhya-nallala-08485932b/
